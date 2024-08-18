@@ -5,6 +5,10 @@ public class ExceptionExample {
 	public static void main(String[] args) {
 		System.out.println("Program has started");
 		System.out.println("program is in progress");
+		System.out.println("Program has started");
+		System.out.println("program is in progress");
+		System.out.println("Program has started");
+		System.out.println("program is in progress");
 		
 		int a=100;
 		try {
